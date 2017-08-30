@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\android-iconics\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\BottomNavigationBar\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\FloatingActionButton-Xamarin\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\material-drawer\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\materialize-library\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\Refractored.Controls.CircleImageView\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\android-iconics\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\BottomNavigationBar\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\FloatingActionButton-Xamarin\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\material-drawer\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\materialize-library\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Refractored.Controls.CircleImageView\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\android-iconics.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\BottomNavigationBar.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\FloatingActionButton-Xamarin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\material-drawer.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\materialize-library.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\igolo_000\Documents\Visual Studio 2015\Projects\Quest\Quest\obj\Debug\__library_projects__\Refractored.Controls.CircleImageView.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

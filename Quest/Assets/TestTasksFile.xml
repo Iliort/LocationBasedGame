@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<quest>
+  <tasks>
+    <Task>
+      <name>XMLTestTaskName</name>
+      <task>
+        <data>
+          <caption>XMLTest</caption>
+          <text>Some text</text>
+          <type>0</type>
+        </data>
+      
+        <data>
+          <caption>XMLTestImage</caption>
+          <imageURL>"http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg"</imageURL>
+          <type>0</type>
+        </data>
+      
+      </task>
+    
+      <location>
+        <data>
+          <caption>XMLTest</caption>
+          <text>Some text</text>
+          <type>0</type>
+        </data>
+      
+        <data>
+          <caption>XMLTestImage</caption>
+          <imageURL>http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg</imageURL>
+          <type>0</type>
+        </data>
+      
+      </location>
+    </Task>
+    <Task>
+      <name>XMLTestTaskName</name>
+      <task>
+        <data>
+          <caption>XMLTest</caption>
+          <text>Some text</text>
+          <type>0</type>
+        </data>
+      
+        <data>
+          <caption>XMLTestImage</caption>
+          <imageURL>http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg</imageURL>
+          <type>0</type>
+        </data>
+      
+      </task>
+    
+      <location>
+        <data>
+          <caption>XMLTest</caption>
+          <text>Some text</text>
+          <type>0</type>
+        </data>
+      
+        <data>
+          <caption>XMLTestImage</caption>
+          <imageURL>http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg</imageURL>
+          <type>0</type>
+        </data>
+      
+      </location>
+    </Task>
+  </tasks>
+  <bonuses>
+    <Task>
+      <name>XMLTestTaskName</name>
+      <task>
+        <data>
+          <caption>XMLTest</caption>
+          <text>Some text</text>
+          <type>0</type>
+        </data>
+      
+        <data>
+          <caption>XMLTestImage</caption>
+          <imageURL>http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg</imageURL>
+          <type>0</type>
+        </data>
+      
+      </task>
+    
+      <location>
+        <data>
+          <caption>XMLTest</caption>
+          <text>Some text</text>
+          <type>0</type>
+        </data>
+      
+        <data>
+          <caption>XMLTestImage</caption>
+          <imageURL>http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg</imageURL>
+          <type>0</type>
+        </data>
+      
+      </location>
+    </Task>
+  </bonuses>
+</quest>

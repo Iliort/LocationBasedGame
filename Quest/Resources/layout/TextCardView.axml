@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        style="@style/CardViewStyle">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <TextView
+                android:id="@+id/TextCardCaption"
+                style="@style/CardCaptionStyle" />
+            <TextView
+                android:id="@+id/TextCardText"
+                style="@style/CardTextStyle"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</FrameLayout>

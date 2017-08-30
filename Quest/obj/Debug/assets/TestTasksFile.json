@@ -1,0 +1,102 @@
+﻿{
+  "tasks": [
+    {
+      "name": "XMLTestTaskName",
+      "status": 0,
+      "task": {
+        "datas": [
+          {
+            "caption": "XMLTest",
+            "text": "Some text",
+            "type": "0"
+          },
+          {
+            "caption": "XMLTestImage",
+            "imageURL": "http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg",
+            "type": "1"
+          }
+        ]
+      },
+      "location": {
+        "datas": [
+          {
+            "caption": "XMLTest",
+            "text": "Some text",
+            "type": "0"
+          },
+          {
+            "caption": "XMLTestImage",
+            "imageURL": "http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg",
+            "type": "1"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XMLTestTaskName",
+      "status": 0,
+      "task": {
+        "datas": [
+          {
+            "caption": "XMLTest",
+            "text": "Some text",
+            "type": "0"
+          },
+          {
+            "caption": "XMLTestImage",
+            "imageURL": "http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg",
+            "type": "1"
+          }
+        ]
+      },
+      "location": {
+        "datas": [
+          {
+            "caption": "XMLTest",
+            "text": "Some text",
+            "type": "0"
+          },
+          {
+            "caption": "XMLTestImage",
+            "imageURL": "http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg",
+            "type": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "bonuses": [
+    {
+      "name": "XMLTestTaskName",
+      "status": 3,
+      "task": {
+        "datas": [
+          {
+            "caption": "XMLTest",
+            "text": "Some text",
+            "type": "0"
+          },
+          {
+            "caption": "XMLTestImage",
+            "imageURL": "http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg",
+            "type": "1"
+          }
+        ]
+      },
+      "location": {
+        "datas": [
+          {
+            "caption": "XMLTest",
+            "text": "Some text",
+            "type": "0"
+          },
+          {
+            "caption": "XMLTestImage",
+            "imageURL": "http://critterbabies.com/wp-content/gallery/kittens/cats-animals-kittens-background-us.jpg",
+            "type": "1"
+          }
+        ]
+      }
+    }
+  ]
+}

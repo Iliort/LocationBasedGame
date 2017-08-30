@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/ProfileViewToolbar"
+        layout="@layout/toolbar" />
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/CardViewStyle">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <refractored.controls.CircleImageView
+                android:id="@+id/ProfileImageView"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center"
+                android:layout_centerInParent="true"
+                android:src="@drawable/test"
+                app:civ_border_width="2dp"
+                app:civ_border_color="#FF000000" />
+            <TextView
+                android:id="@+id/ProfileViewUserName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Username"
+                style="@style/CardCaptionStyle"
+                android:paddingTop="0dp" />
+            <TextView
+                android:id="@+id/ProfileViewTeamName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="TeamName"
+                android:paddingBottom="5dp" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/CardViewStyle">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/ProfileViewJoinButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@color/primary"
+                android:text="@string/JoinTeam"
+                android:textColor="#ffffff" />
+            <Button
+                android:id="@+id/ProfileViewCreateButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@color/primary"
+                android:text="@string/CreateTeam"
+                android:textColor="#ffffff" />
+            <Button
+                android:id="@+id/ProfileViewMyTeamButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@color/primary"
+                android:text="@string/MyTeam"
+                android:textColor="#ffffff" />
+            <Button
+                android:id="@+id/ProfileViewExitButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="#cc0000"
+                android:text="@string/ExitTeam"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+  <android.support.v7.widget.RecyclerView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+</LinearLayout>
